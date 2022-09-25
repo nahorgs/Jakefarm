@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background-color: #e12824;
+  }
+
+main {
+  text-align: center;
+  vertical-align: center;
+  font-family: Tahoma, sans-serif;
+  line-height: 5px;
+}
+
+.title {
+  padding: 10px;
+  background-color: white;
+  color: #e12824;
+  font-family: ;
+  font-size: 60px;
+}
+
+.slogan {
+  padding: 1px;
+  text-align: bottom;
+  background-color: white;
+  color: #e12824;
+  font-size: 20px;
+  font-style: italic;
+}
+
+.header2 {
+  color: white;
+  font-size: 35px;
+}
+
+.header3 {
+  padding: 30px;
+  color: white;
+  font-size: 25px;
+}
+
+#logo{
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  border: 15px solid #e12824;
+  border-radius: 30px;
+  padding: 5px;
+}
+
+a {
+  background-color: white;
+  color: #e12824;
+  text-decoration: none;
+}
+
+.options{
+  background-color: #e12824;
+  padding: 10px;
+  vertical-alignment: center;
+  display: flex;
+  justify-content: center;
+  flex-direction: row;
+  border: 15px solid white;
+  border-radius: 30px;
+}
+
+.optionHeaders{
+  background-color: #ffffff;
+  margin-left: 7em;
+  margin-right: 7em;
+  border: 0.6em solid #ffffff;
+  border-radius: 1em;
+  color: #e60a0a;
+}
+
+.coverage{
+  padding-top: 25px;
+  
+  color: white;
+}
